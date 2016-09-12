@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Welcome
+title:  Sunrise and Flowers
 ---
 
 # {{ page.title }}
